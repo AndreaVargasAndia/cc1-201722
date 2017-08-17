@@ -7,5 +7,7 @@ int main(){
 	m=8;
 	z= x+y + m ;
 	cout << z << end;
+	
+	
 	return 0
 }
