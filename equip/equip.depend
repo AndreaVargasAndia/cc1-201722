@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508249303 source:d:\clases\ccomp2-2\equip\main.cpp
+	<iostream>
+	<sstream>
+	"equip.h"
+	<string>
+
+1508248759 d:\clases\ccomp2-2\equip\include\equip.h
+	<string>
+
+1508249229 source:d:\clases\ccomp2-2\equip\src\equip.cpp
+	"equip.h"
+	<iostream>
+
