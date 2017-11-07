@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508820841 source:e:\andrea\fechas\main.cpp
+	<iostream>
+	"fechas.h"
+
+1508722743 e:\andrea\fechas\include\fechas.h
+
+1508822011 source:e:\andrea\fechas\src\fechas.cpp
+	"fechas.h"
+	<iostream>
+

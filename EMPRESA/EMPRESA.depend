@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1509426772 source:e:\andrea\empresa\main.cpp
+	<iostream>
+	"empresa.h"
+	"trabajador.h"
+	"fechas.h"
+	<string>
+
+1509208714 e:\andrea\empresa\include\empresa.h
+	<string>
+
+1509208546 e:\andrea\empresa\include\trabajador.h
+	<iostream>
+	<string>
+
+1509426700 source:e:\andrea\empresa\src\fechas.cpp
+	"fechas.h"
+	<iostream>
+
+1509426700 e:\andrea\empresa\include\fechas.h
+
+1509208546 source:e:\andrea\empresa\src\trabajador.cpp
+	"trabajador.h"
+
+1509208909 source:e:\andrea\empresa\src\empresa.cpp
+	<iostream>
+	"empresa.h"
+	<string>
+
