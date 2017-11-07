@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1509639587 source:d:\cont\poligono\main.cpp
+	<iostream>
+	"poligono.h"
+
+1509638020 source:d:\cont\poligono\src\poligono.cpp
+	"poligono.h"
+
+1509639805 d:\cont\poligono\include\poligono.h
+	<iostream>
+
+1510063992 source:e:\poligono\main.cpp
+	<iostream>
+	"poligono.h"
+
+1510064288 e:\poligono\include\poligono.h
+	<iostream>
+
+1510063432 source:e:\poligono\src\poligono.cpp
+	"poligono.h"
+
